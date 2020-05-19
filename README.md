@@ -3,11 +3,13 @@ SFGC - Simple Fast Game Controller library (WIP)
 
 SFGC is a library for SFML which makes working with game controllers easier.
 
-**This library is not complete and is being worked on**. Until it hits v1.0,
+**This library is not complete and is not being worked on at the moment**. Until it hits v1.0,
 it'll be unstable and so **it's not recommended for use in production**. Expect
 breaking changes in API and behaviour, since it'll be good to fix the problems
 with SFGC as soon as possible. Plus, the format of the mapping DB might change
 if it's discovered that it doesn't describe some game controllers properly.
+
+Contributions are welcome!
 
 Building and using SFGC
 -----------------------
